@@ -42,7 +42,7 @@ If the user chooses ‘va’ to view all tasks, The information for each task wi
 If the user chooses ‘vm’ to view the tasks that are assigned to them,
 tasks that have been assigned to the user that is currently logged-in is displayed on screen in a user-friendly, easy to read manner.
 
-Only the user with the username ‘admin’ is allowed to register users. The admin user is provided with a new menu option that allows them to display statistics. When this menu option is selected, the total number of tasks and the total number of users will be displayed in a user-friendly manner.
+Only the user with the username ‘admin’ is allowed to register users. The admin user is provided with a new menu option that allows them to display statistics. When this menu option is selected, the total number of tasks and the total number of users will be displayed in a user-friendly manner..
 
 
 
